@@ -1,3 +1,4 @@
+package eBebek;
 import java.util.HashMap;
 import java.util.Scanner;
 
